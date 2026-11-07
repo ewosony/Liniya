@@ -1,0 +1,14 @@
+{
+  "name": "Линия — пространство задач",
+  "short_name": "Линия",
+  "description": "Персональный менеджер цепочек задач и концентрации",
+  "lang": "ru",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#7565d9",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
